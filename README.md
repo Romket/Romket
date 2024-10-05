@@ -1,4 +1,4 @@
-Hi, I’m Luke, but I usually go by @Romket.
+Hi, I’m Luke, but I usually go by @Romket
 
 I'm a high school student interested in programming and aerospace
 
